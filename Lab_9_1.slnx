@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Lab_9_1/Lab_9_1.vcxproj" />
+  <Project Path="UnitTest_Lab_9_1/UnitTest_Lab_9_1.vcxproj" />
+  <Project Path="UnitTest_Lab_9_17/UnitTest_Lab_9_17.vcxproj" />
+</Solution>
